@@ -7,16 +7,16 @@ export const metadata = {
   title: "Hollowborn: an ASCII soulslike",
   description,
   alternates: {
-    canonical: "https://souls.theroboticsstack.com/",
+    canonical: "https://hollowborn.vercel.app/",
   },
   openGraph: {
     type: "website",
-    url: "https://souls.theroboticsstack.com/",
+    url: "https://hollowborn.vercel.app/",
     title: "Hollowborn: an ASCII soulslike",
     description,
     images: [
       {
-        url: "https://ascii-souls.pages.dev/hero.jpg",
+        url: "https://res.cloudinary.com/dsli0q1hn/image/upload/v1795466067/Hollowborn__The_Sleeping_Bell_zw0rwm.png",
         width: 1200,
         height: 630,
         alt: "A knight in plate armor and a torn cloak stands in the rain on a grassy hill, looking across at a ruined chapel, a glowing lantern, and a distant bell tower.",
